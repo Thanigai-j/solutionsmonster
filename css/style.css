@@ -909,7 +909,7 @@ input.form-control::placeholder {
 .contact_taital {
     width: 100%;
     float: left;
-    color: #ffffff;
+    color: #000000;
     text-align: center;
     font-weight: bold;
     font-size: 50px;
